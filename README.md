@@ -1,2 +1,2 @@
 # portfolios
-This is some of my portfolios
+Here are some detailed screenshots of my portfolio. These images showcase the various projects I have worked on, highlighting my skills and expertise in software development, particularly in building robust systems using Flutter and Laravel. Each screenshot provides a glimpse into the functionality and design of the applications I've created, demonstrating my ability to combine technical proficiency with user-friendly interfaces.
